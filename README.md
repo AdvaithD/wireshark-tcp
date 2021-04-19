@@ -17,4 +17,5 @@ File used for this test: http://gaia.cs.umass.edu/wireshark-labs/alice.txt
 Server used to transfer file to: http://gaia.cs.umass.edu/wireshark-labs/TCP-wireshark-file1.html
 
 ACK Messages:
+
 ![](./img/acks.jpg)
